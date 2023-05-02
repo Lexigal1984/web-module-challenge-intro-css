@@ -1,0 +1,138 @@
+body {
+    text-align: center;
+    font-family: 'Roboto Mono';
+}
+
+body img {
+    height: 300px;
+}
+
+body em {
+    font-weight: bold;
+}
+
+body a1:hover {
+    color: black;
+}
+
+body a2:hover {
+    color: black;
+}
+
+body a3:hover {
+    color: black;
+}
+
+h1 {
+    font-family: 'Chelsea Market';
+    font-size: 70px;
+    padding-left: 60px;
+}
+
+p1 {
+    font-size: 22px;
+    padding-left: 60px;
+}
+
+p2 {
+    font-size: 20px;
+}
+
+header div {
+    display: inline-block;
+}
+
+header img{
+    margin-left: 0;
+
+    border-radius: 50%;
+    height: 375px;
+}
+
+a1 {
+    background-color: #FF764E;
+}
+
+a2 {
+    background-color: #5ED3EB;
+}
+
+a3 {
+    background-color: #FFCD69;
+}
+
+header nav a1 {
+    margin: 20px 80px;
+    padding: 8px 32px;
+    display: inline-block;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+header nav a2 {
+    margin: 20px 80px;
+    padding: 8px 32px;
+    display: inline-block;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+header nav a3 {
+    margin: 20px 80px;
+    padding: 8px 32px;
+    display: inline-block;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+footer img {
+    height: fit-content;
+}
+
+footer nav a1 {
+    margin: 20px 80px;
+    padding: 8px 32px;
+    display: inline-block;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+footer nav a2 {
+    margin: 20px 80px;
+    padding: 8px 32px;
+    display: inline-block;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+footer nav a3 {
+    margin: 20px 80px;
+    padding: 8px 32px;
+    display: inline-block;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #F9E7DC;
+}
+
+section p4 {
+    margin: 35px;
+    background-color: #DDB9A3;
+    display: block;
+    padding: 25px;
+    color: white;
+}
